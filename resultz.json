@@ -1,0 +1,57 @@
+{
+  "stats": "13 passed, 0 failed out of 13",
+  "tests": [
+    {
+      "name": "Sayfa açıldığında Gönder butonu disabled mı?",
+      "state": "pass"
+    },
+    {
+      "name": "Login componentinde isValid statei tanımlanmış mı?",
+      "state": "pass"
+    },
+    {
+      "name": "Login componentindeki isValid stateinin başlangıç değeri false olarak belirlenmiş mi?",
+      "state": "pass"
+    },
+    {
+      "name": "Login componentinde errors statei tanımlanmış mı?",
+      "state": "pass"
+    },
+    {
+      "name": "Email yanlış doldurulunca hata mesajı görünüyor mu?",
+      "state": "pass"
+    },
+    {
+      "name": "Email yanlış doldurulunca labelına hasError classı ekleniyor mu?",
+      "state": "pass"
+    },
+    {
+      "name": "Email doğru doldurulunca hata mesajı ortadan kalkıyor mu?",
+      "state": "pass"
+    },
+    {
+      "name": "Password yanlış doldurulunca hata mesajı görünüyor mu?",
+      "state": "pass"
+    },
+    {
+      "name": "Password yanlış doldurulunca labelına hasError classı ekleniyor mu?",
+      "state": "pass"
+    },
+    {
+      "name": "Password doğru doldurulunca hata mesajı ortadan kalkıyor mu?",
+      "state": "pass"
+    },
+    {
+      "name": "Kullanım koşulları kabul edilmediğinde buton disabled kalmaya devam ediyor mu?",
+      "state": "pass"
+    },
+    {
+      "name": "State değişimine bağlı işlemler yapmak için useEffect hooku kullanılmış mı?",
+      "state": "pass"
+    },
+    {
+      "name": "Form doğru bilgiler ile doldurulunca Gönder butonu enabled oluyor mu?",
+      "state": "pass"
+    }
+  ]
+}
